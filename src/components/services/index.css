@@ -1,0 +1,11 @@
+.services-container {
+  display: flex;
+  min-height: 9px;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  column-gap: 40px;
+  padding-bottom: 60px;
+}
