@@ -23,15 +23,15 @@ function Footer() {
           <TextWhite>Redes</TextWhite>
           <div className="footerSocialLinksLink">
             <FacebookLogo></FacebookLogo>
-            <LinkAFooter> My E-commerce</LinkAFooter>
+            <LinkAFooter> Arktech</LinkAFooter>
           </div>
           <div className="footerSocialLinksLink">
             <InstagramLogo></InstagramLogo>
-            <LinkAFooter>My E-commerce</LinkAFooter>
+            <LinkAFooter>Arktech</LinkAFooter>
           </div>
           <div className="footerSocialLinksLink">
             <LinkedinLogo></LinkedinLogo>
-            <LinkAFooter> My E-commerce</LinkAFooter>
+            <LinkAFooter> Arktech</LinkAFooter>
           </div>
         </div>
 
